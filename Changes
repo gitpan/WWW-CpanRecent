@@ -1,0 +1,6 @@
+Revision history for Perl extension WWW::CpanRecent.
+
+0.01  Wed Mar  5 01:36:47 2008
+	- original version; created by h2xs 1.23 with options
+		-Afn WWW::CpanRecent
+
